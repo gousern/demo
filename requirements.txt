@@ -7,6 +7,7 @@ jupyterlab~=3.2.0
 jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-zh-TW
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 jupyterlab-tour
